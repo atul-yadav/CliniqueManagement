@@ -58,6 +58,8 @@ public class AddDetails {
 	
 	
 
+	
+	
 	public <T> List<T> read(List<T> T, String file, String model) throws Exception {
 		ObjectMapper objectMapper = new ObjectMapper();
 		try {
