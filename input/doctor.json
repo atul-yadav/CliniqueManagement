@@ -1,0 +1,1 @@
+[{"name":"x","id":1,"specialization":"cardiologist","availability":"AM","numberOfPatients":1},{"name":"y","id":2,"specialization":"allergist","availability":"PM","numberOfPatients":0},{"name":"z","id":3,"specialization":"pysician","availability":"AM","numberOfPatients":0},{"name":"a","id":4,"specialization":"neuro","availability":"AM","numberOfPatients":3}]
