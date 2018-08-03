@@ -36,6 +36,7 @@ public class AddDetails {
 		return doctorList;
 	}
 
+	
 
 	public List<Appointment> takeAppointment(List<Doctor> doctorList, List<Patient> patientList,List<Appointment> appointmentList) {
 		appointmentList.add(utility.addAppointmentToList(doctorList, patientList));
